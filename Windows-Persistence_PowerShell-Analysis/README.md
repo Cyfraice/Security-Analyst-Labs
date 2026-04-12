@@ -1,4 +1,4 @@
-# Scenario 06: Windows Persistence & PowerShell Analysis
+# Case Study - Windows Persistence & PowerShell Analysis
 
 
 **Tipo:** Case study / Analisi forense  
