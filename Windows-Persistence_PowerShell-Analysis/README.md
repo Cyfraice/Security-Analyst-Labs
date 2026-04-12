@@ -1,4 +1,11 @@
-## Scenario 06: Windows Persistence & PowerShell Analysis
+# Scenario 06: Windows Persistence & PowerShell Analysis
+
+
+**Tipo:** Case study / Analisi forense  
+**Autore:** Francesco Golisciano  
+**Data:** 22/12/2023
+
+---
 
 ### Obiettivi
 Analisi di una macchina Windows compromessa per identificare meccanismi di persistenza e script offuscati.
