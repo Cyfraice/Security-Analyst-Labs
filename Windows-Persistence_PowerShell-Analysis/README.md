@@ -20,3 +20,6 @@ Analisi di una macchina Windows compromessa per identificare meccanismi di persi
    - Decodifica di stringhe offuscate tramite **XOR** (byte 33 e 30).
    - Identificazione della tecnica di chiamata dinamica a `IEX` tramite slicing di variabili d'ambiente.
 3. **Analisi Traffico:** Correlazione tra esecuzione dei task e download di payload HTTP esterni.
+
+## Contenuto del repository
+* [Golisciano_case-study_windows-persistence.pdf](./Golisciano_case-study_windows-persistence.pdf): Report completo dell'analisi in formato PDF.
